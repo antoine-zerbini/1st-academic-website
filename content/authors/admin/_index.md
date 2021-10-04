@@ -1,7 +1,8 @@
 ---
 title: Antoine Zerbini
 role: PhD student in Political Science
-bio: "My research interests include "
+bio: My research interests include Formal Theory, Political Economy and Causal
+  Inference.
 interests:
   - FormalT
 social:
@@ -21,20 +22,15 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
   - name: London School of Economics and Political Science
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc Political Science and Political Economy
+      institution: London School of Economics and Political Science
+      year: 2018
+    - course: BSc Economics and Statistics
+      institution: University College London
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
