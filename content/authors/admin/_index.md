@@ -3,7 +3,8 @@ title: Antoine Zerbini
 role: PhD student in Political Science
 bio: My research interests include Formal Theory, Political Economy and Causal
   Inference.
-interests: []
+interests: 
+  - Formal Theory
 social:
   - icon: envelope
     icon_pack: fas
