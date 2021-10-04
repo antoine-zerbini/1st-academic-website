@@ -11,16 +11,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://twitter.com/AntoineZerbini
 organizations:
   - name: London School of Economics and Political Science
 education:
@@ -31,6 +22,9 @@ education:
     - course: BSc Economics and Statistics
       institution: University College London
       year: 2017
+    - course: PhD in Political Science
+      institution: London School of Economics and Political Science
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
