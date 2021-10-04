@@ -19,6 +19,7 @@ education:
   courses:
     - course: PhD in Political Science
       institution: London School of Economics and Political Science
+      link: https://www.lse.ac.uk/government
       year: 2019 - 2024
     - course: MSc Political Science and Political Economy
       institution: London School of Economics and Political Science
@@ -31,4 +32,7 @@ email: zerbini.antoine15@gmail.com
 superuser: true
 highlight_name: true
 ---
-\[describe interests + bio]
+
+I study models of Political Agency and Informational Lobbying. 
+
+
