@@ -23,6 +23,7 @@ social:
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
+  - name: London School of Economics and Political Science
 education:
   courses:
     - course: PhD in Artificial Intelligence
