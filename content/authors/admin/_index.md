@@ -5,6 +5,7 @@ bio: My research interests include Formal Theory, Political Economy and Causal
   Inference.
 interests: 
   - Formal Theory
+  - Political Economy
 social:
   - icon: envelope
     icon_pack: fas
