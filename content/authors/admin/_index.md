@@ -25,7 +25,7 @@ education:
     - course: PhD in Political Science
       institution: London School of Economics and Political Science
       year: ""
-email: ""
+email: zerbini.antoine15@gmail.com
 superuser: true
 highlight_name: true
 ---
