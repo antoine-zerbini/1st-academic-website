@@ -3,7 +3,7 @@ title: Antoine Zerbini
 role: PhD student in Political Science
 bio: My research interests include Formal Theory, Political Economy and Causal
   Inference.
-interests: 
+interests:
   - Formal Theory
   - Political Economy
 social:
@@ -15,6 +15,7 @@ social:
     link: https://twitter.com/AntoineZerbini
 organizations:
   - name: London School of Economics and Political Science
+    url: https://www.lse.ac.uk/government
 education:
   courses:
     - course: PhD in Political Science
@@ -27,12 +28,10 @@ education:
     - course: BSc Economics and Statistics
       institution: University College London
       year: 2017
-    
 email: zerbini.antoine15@gmail.com
 superuser: true
 highlight_name: true
 ---
+I am a 3rd-year PhD student in Political Science at the [LSE](https://www.lse.ac.uk/government). I use formal theory to study various Political Economy. 
 
-I study models of Political Agency and Informational Lobbying. 
-
-
+More specifically, using models of Political Agency and Lobbying, I consider how transparency regulations and voter’s rationality influence the behaviour of politicians and special interest groups.
