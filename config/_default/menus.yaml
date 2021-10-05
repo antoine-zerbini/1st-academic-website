@@ -10,13 +10,13 @@
 main:
 - name: CV
      url: '#cv'
-     weight: 20
+     weight: 10
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 20
     - name: Working Papers
     url: '#working-papers'
-    weight: 10
+    weight: 30
    
   #- name: Projects
    # url: '#projects'
@@ -26,13 +26,13 @@ main:
    # weight: 40
   - name: Publications
     url: '#publications'
-    weight: 10
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 10
+    weight: 50
     
     
     - name: CV
     url: static/uploads/resume.pdf
-    weight: 10
+    weight: 60
 
