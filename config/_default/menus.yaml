@@ -8,6 +8,9 @@
 
 
 main:
+- name: CV
+    url: static/uploads/resume.pdf
+    weight: 10
   - name: Home
     url: '#about'
     weight: 10
@@ -29,7 +32,5 @@ main:
   - name: Contact
     url: '#contact'
     weight: 10
-    - name: CV
-    url: static/uploads/resume.pdf
-    weight: 10
+    
 
