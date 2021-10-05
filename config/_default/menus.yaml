@@ -5,9 +5,6 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-- name: CV
-url: static/uploads/resume.pdf
-weight: 10
 
 
 main:
@@ -31,5 +28,8 @@ main:
     weight: 10
   - name: Contact
     url: '#contact'
+    weight: 10
+    - name: CV
+    url: static/uploads/resume.pdf
     weight: 10
 
