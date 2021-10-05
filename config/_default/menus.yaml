@@ -14,6 +14,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+    - name: Working Papers
+    url: '#working-papers'
+    weight: 10
   #- name: Posts
    # url: '#posts'
    # weight: 20
