@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
     - name: CV
-    url: '#about'
+    url: '#cv'
     weight: 10
   #- name: Posts
    # url: '#posts'
